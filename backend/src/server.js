@@ -6,7 +6,7 @@ const routes = require('./routes');
 
 const server = express();
 
-mongoose.connect('mongodb+srv://gabrielcampos:gabriel@cluster0-njm64.mongodb.net/tindev?retryWrites=true&w=majority', { useNewUrlParser: true });
+mongoose.connect('mongodb+srv://tindev:tindev@cluster0-njm64.mongodb.net/tindev?retryWrites=true&w=majority', { useNewUrlParser: true });
 
 server.use(cors());
 server.use(express.json());
