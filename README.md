@@ -19,3 +19,9 @@ A meeting platform for programers.
   
   yarn start
 ```
+
+- To open the mobile version you will need to run this command:
+
+```bash
+  react-native init {the name you want to give} --template tindev
+```
