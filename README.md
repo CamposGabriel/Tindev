@@ -19,3 +19,9 @@ A meeting platform for programers.
   
   yarn start
 ```
+
+- And finally, to open the mobile version in IOS, go inside the project paste and run:
+
+```bash
+ react-native run-ios
+```
