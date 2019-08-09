@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		6sutJzYq6KZfRaB+b+ApOB+TCmc=
+		4Xyc2xTiDY3kkAWeT5KJEuOsoWY=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fibkr1G+SZeKA+WnGo7vdDPitAw=
+		f7hIphc2SjymkezCW5+fxao469w=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>PlugIns/tindevTests.xctest/tindevTests</key>
 		<data>
-		CySFWuybS0uVX/IyYeg5DG0tObM=
+		9OTkwV1etgLEAsMs8Ke1PbtaOH0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -104,11 +104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6sutJzYq6KZfRaB+b+ApOB+TCmc=
+			4Xyc2xTiDY3kkAWeT5KJEuOsoWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			A0t34QbWheeLWcbM9I8OU67q1BiIqsB1sWc1O7ooNVs=
+			8h8W5SnjnBUN2+lIi2i2JWbHZJirM4Dh7CHpQxhMqLs=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -315,11 +315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CySFWuybS0uVX/IyYeg5DG0tObM=
+			9OTkwV1etgLEAsMs8Ke1PbtaOH0=
 			</data>
 			<key>hash2</key>
 			<data>
-			DGprjAr7shWw5BnK4gOsvl1LXrlS5s7VIk3qhCOwmUM=
+			9+lVcEnMV5oI0Zf/IcQDab5J0Usd1CWwsMa+mPqslxo=
 			</data>
 		</dict>
 	</dict>
