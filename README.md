@@ -36,7 +36,7 @@ $ cd .. && cd frontend
 ```
 - And finally, if you want to open the mobile part, open another terminal window (or tab) and go to the mobile folder
 ```bash
-$ cd .. && cd mobile
+$ cd .. && cd Tindev
 ```
 - Start the mobile app
 ```bash
